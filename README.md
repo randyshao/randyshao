@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently an organizer and web developer at [Product Buds][productbuds], a global community of aspiring product managers!
 - 🔭 I love all things tech and business, and am looking to break into product management.
-- 📲 2020-21 Goals: Meet more amazing people and contribute more to Open Source projects.
 - 📸 Fun fact: I also love photography and content creation! Check out my photography [Instagram][instagram].
 
 ### Connect with me:
