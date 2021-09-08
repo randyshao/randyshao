@@ -1,9 +1,9 @@
 ### Hi! I'm [Randy][website] 👋
 
-## I'm a third-year student at Queen's University studying computer science!
+## I'm a fourth-year student at Queen's University studying computer science!
 
-- 🌱 I’m currently an organizer and web developer at [Product Buds][productbuds], a global community of aspiring product managers!
-- 🔭 I love all things tech and business, and am looking to break into product management.
+- 🌱 I’m currently the Web Lead at [Product Buds][productbuds], a global community of aspiring product managers!
+- 🔭 I love all things tech and business, and am looking to break into product management or software engineering.
 - 📸 Fun fact: I also love photography and content creation! Check out my photography [Instagram][instagram].
 
 ### Connect with me:
